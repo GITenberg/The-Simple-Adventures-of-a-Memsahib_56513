@@ -1,0 +1,29 @@
+_repo: The-Simple-Adventures-of-a-Memsahib_56513
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Duncan, Sara Jeannette
+    aliases:
+    - Grafton, Garth
+    - Cotes, Mrs. Everard
+    - Cotes, V. Cecil
+    - Cotes, Everard, Mrs.
+    - Wintergreen, Jane
+    birthdate: 1861
+    deathdate: 1922
+    gutenberg_agent_id: '542'
+    url: http://www.gutenberg.org/2009/agents/542
+    wikipedia: http://en.wikipedia.org/wiki/Sara_Jeannette_Duncan
+description: ''
+gutenberg_issued: '2018-02-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56513'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Simple Adventures of a Memsahib
+url: http://www.gutenberg.org/ebooks/56513
